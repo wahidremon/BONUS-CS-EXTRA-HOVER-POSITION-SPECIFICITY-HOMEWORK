@@ -1,18 +1,18 @@
-/* PSEUDO ELEMENT BEFORE AFTER */
+/* PSEUDO ELEMENT BEFORE AFTER
 
-/* h1::before {
+h1::before {
     content: "Md Saddam ";
-} */
+}
 
-/* Below copy from https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters */
+Below copy from https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters
 
-/* body {
-    counter-reset: section;                       /* Set a counter named 'section', and its initial value is 0. */
-  /* } */ */
+body {
+    counter-reset: section;                       Set a counter named 'section', and its initial value is 0.
+  }
   
-  /* h1::before {
-    counter-increment: section;                   /* Increment the value of section counter by 1 */
-    /* content: "Section " counter(section) ": ";    /* Display the word 'Section ', the value of
+  h1::before {
+    counter-increment: section;                   Increment the value of section counter by 1
+    content: "Section " counter(section) ": ";    Display the word 'Section ', the value of
                                                      section counter, and a colon before the content
-                                                     of each h1 */
-  } */ */
+                                                     of each h1
+  } */
