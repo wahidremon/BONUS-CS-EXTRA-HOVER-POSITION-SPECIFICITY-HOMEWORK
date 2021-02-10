@@ -1,0 +1,49 @@
+/* for relative position */
+
+/* .container {
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+}
+#first {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+#second {
+    background-color: brown;
+    width: 100px;
+    position: relative;
+    height: 100px;
+    left: 100px;
+}
+#third {
+    background-color: chartreuse;
+    width: 100px;
+    height: 100px;
+} */
+
+/* for absolute position */
+
+/* .container {
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+}
+#first {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+#second {
+    background-color: brown;
+    width: 100px;
+    position: absolute;
+    height: 100px;
+    left: 100px;
+}
+#third {
+    background-color: chartreuse;
+    width: 100px;
+    height: 100px;
+} */
